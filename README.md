@@ -2,6 +2,12 @@
 
 Dashboard for Movies.
 
+## Git Configurations
+
+$> git config user.name "S***************y"
+$> git config user.email "p***********y@gmail.com"
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
