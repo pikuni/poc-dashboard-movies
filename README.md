@@ -1,14 +1,26 @@
 # Getting Started
 
-Dashboard for Movies.
+Movies World is developed using React and Open Movie Database (http://www.omdbapi.com/). This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It is basically a Dashboard for Movies with the following features.
+- Show the list of Movies in Cards
+- Search Movies
+
+## Tech Stack
+- React
+- HTML, CSS, and JavaScript
 
 ## Git Configurations
 
 $> git config user.name "S***************y"
 $> git config user.email "p***********y@gmail.com"
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## References
+- React JS Full Course 2022 | Build an App and Master React in 1 Hour (JavaScript Mastry) 
+Video URL: https://www.youtube.com/watch?v=b9eMGE7QtTk
+Source Code: https://gist.github.com/adrianhajdin/997a8cdf94234e889fa47be89a4759f1?short_path=65f6eb8
+- Lists and Keys
+Web URL: https://reactjs.org/docs/lists-and-keys.html#keys
 
 ## Available Scripts
 
